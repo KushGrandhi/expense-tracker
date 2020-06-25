@@ -1,4 +1,4 @@
 general(for app+ webapp projects)
 !!! the app has to retrieve data from the webapp through api(using get and post)
     website needs to have post and get methods to write to a database
-
+color profiles - https://colorhunt.co/palette/174969 https://colorhunt.co/palette/191957
