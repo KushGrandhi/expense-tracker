@@ -4,19 +4,19 @@ Stage 1:
 pre processing Data
 graphs
 	1. frequency of spending in a particular interval
-	2. yearly month wise spending cost
-	3. yearly month wise savings
+	2. yearly spend by month
+	3. yearly earnings/remitences by month
 	4. 
-AI integrated graph for predicting next months spend
+ML integrated graph for predicting month on month spend
 
 Stage 2:
 web application
-	migrating graphs onto websites
+	migrating graphs onto webpage
 	storing data
-	creating multi user layout
+	creating multiuser layout
 
 Stage 3:
-creating API and linking with app
+creating API and linking with mobile app
 
 Stage 4:
 ability to set targets in savings and monthly spendings
